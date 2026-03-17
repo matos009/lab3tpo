@@ -40,3 +40,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+
+# generated lab files
+src/main/resources/
+*.csv
+*.png
